@@ -52,7 +52,7 @@
         android:id="@+id/btnDownload"
         android:layout_width="0dp"
         android:layout_height="70dp"
-        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
         android:layout_marginBottom="20dp"
         android:backgroundTint="@color/teal_700"
         android:elevation="10dp"
