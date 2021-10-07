@@ -23,7 +23,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
-    var memeURL: String? = null
+    private var memeURL: String? = null
     var myDownloadId: Long? = 0
 
     override fun onCreate(savedInstanceState: Bundle?) {
